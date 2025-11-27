@@ -1,13 +1,3 @@
-Got you!
-You want the SVG with NO backticks at all, so you can copy-paste directly into your README.
-
-Here it is — completely clean, NO backticks, NO code block:
-
-
----
-
-✅ Copy this EXACTLY into your README (NO backticks needed)
-
 <p align="center">
 <svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
   <style>
@@ -48,17 +38,3 @@ Here it is — completely clean, NO backticks, NO code block:
   </style><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="glitch1">N1H4D</text> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="glitch2">N1H4D</text> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="main">N1H4D</text> </svg>
 
 </p>
----
-
-✔️ This is ready to paste.
-
-If you want, I can also make:
-
-a purer neon version
-
-a glitchier version
-
-a yellow Cyberpunk 2077 theme
-
-
-Just tell me!
