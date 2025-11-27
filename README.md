@@ -8,5 +8,5 @@
 </p>
   
 <p align="center">
-  <img src="Nodejs/xqc1" width="600" alt="Developer : N1H4D bloody logo" />
+  <img src="NodeJS/xqc1.svg" width="600" alt="Developer : N1H4D bloody logo" />
 </p>
