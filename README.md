@@ -7,7 +7,7 @@
 
   <p align="center">
   <a href="#">
-    <img src="NodeJS/msx.svg" width="220" alt="Download Button" />
+    <img src="SQL/Lib.svg" width="220" alt="Download Button" />
   </a>
 </p>
   
