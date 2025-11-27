@@ -6,13 +6,12 @@
 </p>
 
 <p align="center">
+  <img src="SQL/Msi.svg" alt="Neon Text">
+</p>
+<p align="center">
   <a href="https://github.com/cocs2abba/A/blob/main/SQL/Resources%20ARSC.zip">
     <img src="SQL/Lib.svg" alt="Download" />
   </a>
-</p>
-
-<p style="color:#ff4fa8; font-size:22px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing:3px; font-weight:700;">
-  This website is created by N1H4D  and coded using Node JS
 </p>
   
 <p align="center">
