@@ -3,7 +3,7 @@
 
   <p align="center">
   <a href="#">
-    <img src="button2.svg" width="220" alt="Download Button" />
+    <img src="NodeJS/cqc.svg" width="220" alt="Download Button" />
   </a>
 </p>
   
