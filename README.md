@@ -5,8 +5,9 @@
   <img src="NodeJS/smvrx.webp" width="400" alt="Billie Eilish neon art" />
 </p>
 
-  
-    [![Download](SQL/Lib.svg)](https://your-download-link-here)
+<p align="center">
+  <a href="https://your-download-link-here">
+    <img src="SQL/Lib.svg" alt="Download" />
   </a>
 </p>
   
